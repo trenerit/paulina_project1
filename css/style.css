@@ -1,3 +1,25 @@
 * {
     font-family: "Roboto", sans-serif;
 }
+
+body {
+    margin: 0;
+    height: 300vh;
+}
+
+header {
+    background: url('../assets/img/bg_header_sm.webp') center/cover fixed;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.div-header {
+    /* border: 1px solid red; */
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%; */
+}
